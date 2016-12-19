@@ -10,5 +10,8 @@ public class Class2 {
 		System.out.println("Hello world - Online message");
 		System.out.println("Hello world - Merge online");
 		System.out.println("Hello world - Merge local");
+		
+		
+		System.out.println("Class 2 online updates");
 	}
 }
