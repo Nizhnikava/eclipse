@@ -1,4 +1,4 @@
-package com.epam.programm.cdp;
+package com;
 
 public class Class2 {
 

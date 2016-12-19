@@ -1,4 +1,4 @@
-package com.epam;
+package com;
 
 public class Class3 {
 
