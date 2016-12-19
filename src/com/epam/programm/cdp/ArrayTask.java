@@ -6,6 +6,7 @@ public class ArrayTask {
 		System.out.println("Hello world");
 		System.out.println("Hello world - GIT");
 		System.out.println("Hello world - GIT - Updated");
+		System.out.println("Hello world - Commit message");
 	}
 
 }
