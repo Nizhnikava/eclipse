@@ -9,6 +9,7 @@ public class ArrayTask {
 		System.out.println("Hello world - Commit message");
 		System.out.println("Hello world - Online message");
 		System.out.println("Hello world - Merge online");
+		System.out.println("Hello world - Merge local");
 	}
 
 }
